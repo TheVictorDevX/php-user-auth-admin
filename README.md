@@ -114,7 +114,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✨ Author
 
-Maintained by [Your Name](https://github.com/your-username).
+Maintained by [TheVictorDevX](https://github.com/TheVictorDevX).
 
 ---
 
